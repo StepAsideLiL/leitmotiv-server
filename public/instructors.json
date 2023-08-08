@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Aras Basra",
+    "email": "aras@basra.com",
+    "image": "https://images2.imgbox.com/ea/50/1JsRzrbL_o.jpg",
+    "role": "instructor"
+  },
+  {
+    "name": "Birat Mala",
+    "email": "birat@mala.com",
+    "image": "https://images2.imgbox.com/4c/ab/Se4eLenp_o.jpg",
+    "role": "instructor"
+  },
+  {
+    "name": "Boro Shoro",
+    "email": "boro@shoro.com",
+    "image": "https://images2.imgbox.com/c9/e8/IUaU5iwt_o.jpg",
+    "role": "instructor"
+  },
+  {
+    "name": "Modhu Kodu",
+    "email": "modhu@kodu.com",
+    "image": "https://images2.imgbox.com/d7/97/nqVMySEX_o.jpg",
+    "role": "instructor"
+  },
+  {
+    "name": "Aku Khalu",
+    "email": "aku@khalu.com",
+    "image": "https://images2.imgbox.com/82/c0/6iqJ9Q0M_o.jpg",
+    "role": "instructor"
+  },
+  {
+    "name": "Akash Batash",
+    "email": "akash@batash.com",
+    "image": "https://images2.imgbox.com/26/8f/YVETJXcp_o.jpg",
+    "role": "instructor"
+  }
+]
