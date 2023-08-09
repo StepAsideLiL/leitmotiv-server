@@ -26,6 +26,6 @@ mongoose
       console.log(`Leitmotiv Academy is running on port ${port}`);
     });
   })
-  .catch((err) => {
-    console.log(err);
+  .catch((error) => {
+    console.log(error);
   });
